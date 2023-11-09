@@ -24,6 +24,7 @@ const ConfirmLeaveModal = function (props) {
       uid,
       cid,
     };
+
     try {
       // Note: leaveClass doesn't currently return anything.
       fetch
